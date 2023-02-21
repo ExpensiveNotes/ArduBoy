@@ -10,3 +10,5 @@ Audio:
 I am using the BeepPin1 and BeepPin2 class to make sounds (square Waves) which go separately to the left and right channels of the output. Unfortunately, the clone has no pads to make hacking it easy, I had to solder one wire directly to the chip, which was a bit nerve-racking for me and my dodgy soldering skills. The pins for the speaker are PC6 and PC7 on the ATMega32U4.
 Sync:
 I send a 15ms pulse at the start of each note to pin PD2 (digital pin 0) which is connected to the sync out socket. (Tip not ring to match the Pocket Operators spec)
+Inuse on Youtube:
+https://youtu.be/GA5VriTmi_w
