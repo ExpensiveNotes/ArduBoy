@@ -4,22 +4,6 @@
 
   Assumes: pin D0 (PD2 on ATMEGA32U4) is connected to sync out socket. And, pins PC6 and PC7 are speaker outs are also connected to a stereo out socket
 
-  Buttons
-  A & B = Choose Mode
-
-  D Buttons:
-  Mode          Left    Up    Down    Right
-
-  Cursor Mode
-  0             Left    Up    Down    Right
-
-
-  to do
-
-  Shorten Pattern length
-
-  Pattern Chaining
-
 */
 
 #include <Arduboy2.h>
